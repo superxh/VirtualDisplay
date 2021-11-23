@@ -1,0 +1,24 @@
+﻿  Building 'IddSampleDriver' with toolset 'WindowsUserModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\IddSampleDriver.inf
+  Both Version and Date must be specified to stamp DriverVer
+  Driver.cpp
+    正在创建库 C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver.lib 和对象 C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver.exp
+  IddSampleDriver.vcxproj -> C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver.dll
+  Done Adding Additional Store
+  Successfully signed: C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver.dll
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver\iddsampledriver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver\iddsampledriver.cat
+  

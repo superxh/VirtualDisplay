@@ -1,2 +1,20 @@
 # VirtualDisplay
-A compiled virtual display driver modified from Microsoft's sample driver
+A compiled virtual display driver modified from Microsoft's sample driver -- IndirectDisplay
+
+## Usage
+
+1. Navigate to *VirtualDisplay/x64/Release*
+
+2. Double click *IddSampleDriver.cer* and install the certificate manually to 
+
+   *Certificates (Local Computer) > Trusted Root Certification Authorities*
+
+3. Right click and run *IddSampleApp.exe* as administrator
+
+4. Check windows device manager and install the driver for the unknown device
+
+   Driver location: *VirtualDisplay/x64/Release/IddSampleDriver*
+
+5. Now you could find the virtual display in your windows settings
+
+6. Enjoy! 🐸

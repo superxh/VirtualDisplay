@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\IndirectDisplay\x64\Release\IddSampleDriver.dll.lastcodeanalysissucceeded
+C:\Users\admin\Desktop\IndirectDisplay\IddSampleDriver\x64\Release\NativeCodeAnalysis.read.1.tlog
