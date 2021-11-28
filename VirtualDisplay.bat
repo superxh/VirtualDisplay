@@ -1,0 +1,1 @@
+START /MIN CMD.EXE /C C:\Users\admin\Documents\Software\IddSampleApp.exe
